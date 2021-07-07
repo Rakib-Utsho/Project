@@ -1,0 +1,11 @@
+
+				################# Important File #################
+				
+				    project name: Book Store Management System
+
+
+	Admin sign up Code: 000
+
+	Admin Password: 1234
+
+ 	Customer Passwoard: 1003
